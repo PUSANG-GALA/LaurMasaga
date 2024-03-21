@@ -1,0 +1,220 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Comic Sans MS ;
+    font-size:160%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(139, 139, 139, 0.26),rgba(139, 139, 139, 0.26)),url("background.gif");
+    background-position: center;
+    
+    
+}
+
+h1{
+
+    color:white;
+}
+
+.text h1{
+ color:black;
+ font-size:100%;
+ margin: 0;
+
+}
+header {
+    width: 100%;
+    position:relative;
+    background-color:rgba(0, 0, 0, 0.7); 
+    display:flex;
+    justify-content:center;
+}
+header img{
+    margin-top: 6px;
+    width: 100px; 
+    height: auto;
+}
+footer {
+    position: fixed;
+    bottom:0;
+    left: 0;
+    width: 100%;
+    background-color:rgba(117, 117, 151, 0.205); 
+    text-align: center;
+    padding: 0;
+}
+
+.icon-container {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+
+    
+}
+
+.bottom-icon1{
+    margin: 0 5px;
+    background-color: transparent;
+    cursor: pointer; 
+    padding: 1%;
+}
+.bottom-icon1 img {
+    width: 43px; 
+    height: auto;
+    transition: transform 0.3s ease-in-out; 
+}
+
+.bottom-icon1:hover img{
+    transform: scale(1.1);
+}
+
+.bottom-icon2{
+    margin: 0 5px;
+    background-color: transparent;
+    cursor: pointer; 
+    padding: 1%;
+}
+.bottom-icon2 img {
+    width: 43px; 
+    height: auto; 
+    transition: transform 0.3s ease-in-out;
+}
+.bottom-icon2:hover img{
+    transform: scale(1.1);
+}
+
+.bottom-icon3 {
+    margin: 0 5px;
+    background-color: transparent;
+    cursor: pointer; 
+    padding: 1%;
+}
+    .bottom-icon3 img {
+    width: 43px; 
+    height: 42px; 
+    transition: transform 0.3s ease-in-out;
+}
+.bottom-icon3:hover img {
+        transform: scale(1.1);
+}
+.bottom-icon4{
+    margin: 0 5px;
+    background-color: transparent;
+    cursor: pointer; 
+    padding: 1%;
+
+   
+}
+.bottom-icon4 img {
+    width: 43px;
+    height: 42px;
+    transition: transform 0.3s ease-in-out;
+}
+.bottom-icon4:hover img{
+    transform: scale(1.1);
+}
+.bottom-icon5{
+    margin: 0 5px;
+    background-color: transparent;
+    cursor: pointer; 
+    padding: 1%;
+
+    
+}
+.bottom-icon5 img {
+    width: 43px;
+    height: 42px; 
+    transition: transform 0.3s ease-in-out;
+
+}
+.bottom-icon5:hover img{
+    transform: scale(1.1);
+}
+.bottom-icon6{
+    margin: 0 5px;
+    background-color: transparent;
+    cursor: pointer; 
+    padding: 1%;
+
+    
+
+}
+.bottom-icon6 img {
+    width: 43px; 
+    height: 42px; 
+    transition: transform 0.3s ease-in-out;
+
+}
+.bottom-icon6:hover img{
+    transform: scale(1.1);
+}
+.bottom-icon7{
+     margin: 0 5px;
+    background-color: transparent;
+    cursor: pointer; 
+    padding: 1%;
+}
+.bottom-icon7 img {
+    width: 43px; 
+    height: 42px; 
+    transition: transform 0.3s ease-in-out
+}
+.bottom-icon7:hover img{
+    transform: scale(1.1);
+}
+.bottom-icon8{
+    margin: 0 5px;
+    background-color: transparent;
+    cursor: pointer; 
+    padding: 1%;
+}
+.bottom-icon8 img {
+    width: 43px; 
+    height: 42px; 
+    transition: transform 0.3s ease-in-out
+}
+.bottom-icon8:hover img{
+    transform: scale(1.1);
+}
+.bottom-icon9{
+    margin: 0 5px;
+    background-color: transparent;
+    cursor: pointer; 
+    padding: 1%;
+}
+
+.bottom-icon9 img {
+    width: 43px; 
+    height: 42px; 
+    transition: transform 0.3s ease-in-out
+}
+.bottom-icon9:hover img{
+    transform: scale(1.1);
+}
+.bottom-icon10{
+    margin: 0 5px;
+    background-color: transparent;
+    cursor: pointer; 
+    padding: 1%;
+}
+
+.bottom-icon10 img {
+    width: 43px;
+    height: 42px; 
+    transition: transform 0.3s ease-in-out
+}
+.bottom-icon10:hover img{
+    transform: scale(1.1);
+}
+
+img {
+    width: 400px; /* Adjust the width to your desired size */
+    height: auto; /* Maintain the aspect ratio */
+} 
+
+
+.bottom-icon a {
+    
+    width: 100%;
+    height: 100%;
+}
